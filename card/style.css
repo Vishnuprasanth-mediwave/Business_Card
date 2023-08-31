@@ -2,10 +2,15 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .card{
+    width: 500px;
+    height: 200px;
     border: 1px dotted rgb(35, 137, 196);
     display: flex;
+    padding: 5px;
+    background: linear-gradient(45deg, purple, rgb(15, 103, 235));
+    
 }
 img{
-    width: 20%;
+    width: 150px;
 
 }
