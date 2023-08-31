@@ -8,9 +8,17 @@ body{
     display: flex;
     padding: 5px;
     background: linear-gradient(45deg, purple, rgb(15, 103, 235));
+    justify-content: space-around;
     
 }
 img{
     width: 150px;
+    padding: 10px;
+    border-radius: 50%;
 
+}
+.content{
+    font-size: x-large;
+    color: aqua;
+    text-align: center;
 }
